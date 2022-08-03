@@ -7,3 +7,5 @@ This repo contains the code and the csv output of that code through episode 203 
 I couldn’t quite get all the questions to come out cleanly (since I was using de-limit in python to split them apart) but I think it is of acceptable quality for not having done any manual edits myself. The biggest issues are episodes where he didn’t put time stamps for questions he responded to.
 
 I sent over the code to Cal to see if he could publish it for everyone to see. However 2 weeks later and no response yet. Also he changed the formatting of his episode descriptions for episodes 204+, breaking this code for future episodes. Is this just a co-incidence?
+
+UPDATE: Cal and Jesse (Cal's podcast producer) responded. They are looking to fix this formatting issue so this code will work on future episodes. However, I anticipate this will take a while.
