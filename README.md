@@ -9,3 +9,5 @@ I couldn’t quite get all the questions to come out cleanly (since I was using 
 I sent over the code to Cal to see if he could publish it for everyone to see. However 2 weeks later and no response yet. Also he changed the formatting of his episode descriptions for episodes 204+, breaking this code for future episodes. Is this just a co-incidence?
 
 UPDATE: Cal and Jesse (Cal's podcast producer) responded. They are looking to fix this formatting issue so this code will work on future episodes. However, I anticipate this will take a while.
+
+UPDATE 2: I have worked with Jesse to fix the format. Now the code just need a slight adjusting since the youtube link no longer preceds the episode name and we should have a working code once again. I will work on updating that code soon.
