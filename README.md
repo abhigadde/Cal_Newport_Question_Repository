@@ -6,3 +6,4 @@ This repo contains the code and the csv output of that code through episode 260 
 
 I couldn’t quite get all the questions to come out cleanly (since I was using de-limit in python to split them apart) but I think it is of acceptable quality for not having done any manual edits myself. The biggest issues are episodes where he didn’t put time stamps for questions he responded to.
 
+For any questions, feel free to contact me at abhinavgadde7@gmail.com
